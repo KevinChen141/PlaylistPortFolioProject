@@ -86,11 +86,11 @@ a quick overview of what you need to do to get the assignment done as follows:
 
 ### Submission Tasks
 
-- [ ] I have shared assignment feedback in the "Assignment Feedback" section
-- [ ] I have converted this document to a PDF
-- [ ] I compressed my project to a `.zip` file
-- [ ] I am prepared to submit the PDF, the zip, and the link to the remote repo to Carmen
-- [ ] I am prepared to give my peers feedback on their ideas
+- [x] I have shared assignment feedback in the "Assignment Feedback" section
+- [x] I have converted this document to a PDF
+- [x] I compressed my project to a `.zip` file
+- [x] I am prepared to submit the PDF, the zip, and the link to the remote repo to Carmen
+- [x] I am prepared to give my peers feedback on their ideas
 
 ## Assignment Learning Objectives
 
